@@ -1,27 +1,32 @@
 meta:
   namn: Matcha Chokladkakor
-  skapare: クックまいななパパ
+  skapare: Isac Carlsson
   beskrivning: Imitation av Country Ma'ams matcha gateau chokladkakor. Hård utsida av matcha med mjuk chokladfyllning.
-  datum: 2020-03-21
+  datum: 2024-04-06
   länk: https://cookpad.com/recipe/6091116
-  bild: /kakor.png
+  bild: null
   antal: 18 st
 
 recept:
   ingredienser:
+    mandelpasta:
+      - Oskalade mandlar 18 g
+      - Florsocker 18 g
+      - Äggvita 6 g
+
     ytterdegen:
       - Amerikansk pankaksblandning 55 g
       - Socker 8 g
       - Äggula 8 g
       - Smör 23 g
-      - Vit bönpasta 15 g
+      - Mandelpasta 15 g
       - Honung 6 g
-      - Rismjöl 4 g
+      - Vetemjöl 4 g
       - Matcha pulver 6 g
-
+    
     fyllning 1:
       - Vit choklad 24 g
-      - Vit bönpasta 20 g
+      - Mandelpasta 20 g
       - Mjölk 7 g
       - Honung 3 g
       - Matcha pulver 2 g
@@ -32,6 +37,12 @@ recept:
       - 18 vitchokladbitar 6 g
   
   instruktioner:
+    bönpastan:
+      - Mixa mandlarna tillsammans med florsockret tills konsistensen blir 
+        nästan slät. Lämna lite ojämnheter kvar.
+      - Tillsätt sedan äggvita och mixa tills mandeln får en deg-lik konsistens 
+        och håller samman. Tillsätt mer äggvita om så behövs.
+
     fyllningen:
       - Koka upp vatten i en kastrull. Lägg de första fyllningsingredienserna i
         en mindre kastrull som sänks ned i vattenbadet. Rör om tills allt är
